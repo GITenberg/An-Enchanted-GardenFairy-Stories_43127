@@ -6,7 +6,7 @@ contributor:
     aliases:
     - Hennessy, W.J.
     - Hennessy, W. J. (William John)
-    birthdate: &id001 1839
+    birthdate: 1839
     deathdate: 1917
     gutenberg_agent_id: '9782'
     url: http://www.gutenberg.org/2009/agents/9782
@@ -19,12 +19,14 @@ creator:
     aliases:
     - Mrs. (Mary Louisa) Molesworth
     - Molesworth, Mary Louisa Stewart
-    birthdate: *id001
+    birthdate: 1839
     deathdate: 1921
     gutenberg_agent_id: '2147'
     url: http://www.gutenberg.org/2009/agents/2147
     wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43127#An-Enchanted-GardenFairy-Stories
 gutenberg_issued: '2013-07-08'
 gutenberg_type: Text
 identifiers:
